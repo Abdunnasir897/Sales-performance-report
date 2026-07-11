@@ -31,6 +31,6 @@ Europe and Asia are also significant.
 Smaller shares: Middle East, Central America.
 Unit Cost by Country Map: The US-focused map (with some states highlighted in blue) may indicate data for specific US operations or an anomaly in the dashboard. If this is meant to show unit costs globally, it needs clarification.
 
-Sales Channel Efficiency
+Sales Channel Efficiency, 
 Offline channel drives the vast majority of costs (£2.4bn vs. very low online costs).
 This suggests Offline is the primary sales engine but also the most expensive. Online may be underutilized or more efficient per unit.
